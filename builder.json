@@ -1,0 +1,21 @@
+{
+  "project": "flutter_ios_test",
+  "platform": "ios",
+  "github": {
+    "owner": "ShubhamGharat07",
+    "repo": "flutter_ios_test"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "path": "ios"
+  },
+  "flutter": {
+    "version": "3.38.2",
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
